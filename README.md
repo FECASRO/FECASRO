@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="./assets/BANNER.png" alt="Banner del proyecto"  />
+
+## 📬 Contáctame
+
+[![Email](https://img.shields.io/badge/email-M.C.Claud1%40hotmail.com-red?style=flat&logo=gmail)](mailto:M.C.Claud1@hotmail.com)
