@@ -1,4 +1,4 @@
-## Hola me pillas trabajando, pero quedate y hecha un vistazo 
+## Hola me pillas trabajando, pero quedate y echa un vistazo 
 
 <!--
 **FECASRO/FECASRO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
